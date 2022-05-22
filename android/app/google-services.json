@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663855948348",
+    "project_id": "manajemen-informasi-puskesmas",
+    "storage_bucket": "manajemen-informasi-puskesmas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663855948348:android:088456f092d1f67c875939",
+        "android_client_info": {
+          "package_name": "com.example.sistem_informasi_manajemen_puskesmas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663855948348-4n7ssj9n55tf08vv7i8t018qj3vj74vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGgoxO7l8j2TwSLNEfEPKHkyzuqR-JYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663855948348-4n7ssj9n55tf08vv7i8t018qj3vj74vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
